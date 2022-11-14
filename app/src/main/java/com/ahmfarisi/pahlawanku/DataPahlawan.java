@@ -28,7 +28,7 @@ public class DataPahlawan {
 
             dataPahlawan.add(model);
         }
-        
+
         return dataPahlawan;
     }
 
